@@ -10,7 +10,7 @@ Deploy: https://koreteo.github.io/CV/
 
 ## __About me:__
 I am student of Siberian Federal University, majoring in Applied Informatics and training profile of "Internet Technologies and WEB-applications". 
-I'm interested in Web Development because this job provides endless opportunities for professional growth and it has a huge community of developers, who are ready to share their knowledge.
+I'm interested in Web Development because this job provides endless opportunities for professional growth and it has a huge community of developers, who are ready to share their knowledge, so I decided to learn it by myself.
 
 ## __Education:__ 
 __University:__ Siberian Federal University (2022 – present)

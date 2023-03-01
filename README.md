@@ -19,9 +19,10 @@ __University:__ Siberian Federal University (2022 – present)
 - Site of coffee shop with modifiable menu (in development)
 
 ## __Skills and Proficiency:__
-- HTML, CSS
+- HTML5, CSS3
 - JS (Basic)
 - C# (Basic)
+- GIT, GitHub
 
 ## __English:__
 "Level of English is __C2__ PROFICIENT according to the guidelines set by the Common European Framework of Reference (CEFR)" (according to the online test at [EFSet](https://www.efset.org/cert/RFNfzd))

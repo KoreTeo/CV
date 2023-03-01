@@ -22,7 +22,6 @@ __University:__ Siberian Federal University (2022 – present)
 - HTML, CSS
 - JS (Basic)
 - C# (Basic)
-- VS Studio
 
 ## __English:__
 "Level of English is __C2__ PROFICIENT according to the guidelines set by the Common European Framework of Reference (CEFR)" (according to the online test at [EFSet](https://www.efset.org/cert/RFNfzd))
